@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish H
-- 👀 I’m interested in Web Development and Web Design.
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m a Front End Web Developer and I'm interested in Web Design and Development
+- 🌱 I’m currently on the journey to become a Full Stack Web Developer. 
 - 💞️ I’m looking to collaborate on making new websites.
 - 📫 you can reach me on my email - ashishkalburgi90@gmail.com
 
